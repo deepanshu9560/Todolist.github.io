@@ -1,0 +1,8 @@
+@media (max-width: 400px){
+   div#tables {
+       padding: 0;
+   }
+   .container{
+       padding: 0 5px;
+   }
+}
